@@ -68,7 +68,7 @@ pickle-mixin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/resume-summarizer-recommendation-system.git
+   git clone https://github.com/humayun-raza-030/resume-summarizer-and-recomendation-system.git
    cd resume-summarizer-recommendation-system
    ```
 
@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Humayun Raza* - (https://github.com/humayun-raza-030)
 
 ## 🙏 Acknowledgments
 
@@ -231,10 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or need help with the project, please:
-1. Check the [Issues](https://github.com/yourusername/resume-summarizer-recommendation-system/issues) page
+1. Check the [Issues]([https://github.com/yourusername/resume-summarizer-recommendation-system/issues](https://github.com/humayun-raza-030/resume-summarizer-and-recomendation-system/issues)) page
 2. Create a new issue if your question isn't already addressed
 3. Provide detailed information about your problem
 
 ---
-
-**Note**: Make sure to replace `yourusername` with your actual GitHub username and add a `requirements.txt` file with all the dependencies listed above.
